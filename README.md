@@ -1,4 +1,4 @@
-# URCap_LayoutManager
+# URCap_LayoutExample
 A brief tryout of java swing layout manager types of 
 - BoxLayout, 
 - GridLaout, 
